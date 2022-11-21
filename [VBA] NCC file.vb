@@ -6,7 +6,7 @@
 '* Standardize data imput for NCC tickets
 '* 
 '*
-Sub Agent()
+Sub Agent(Optional HiddenMacro as String)
 '
 ' Agent Macro
 '
