@@ -17,3 +17,4 @@ ADDED     most used account automatically shows in prefilled form
 ADDED     [automatic refresh allowed list by opening 000 file]
 ADDED     [automatically recover data for input cells by opening 000 file]
 SECURITY  password protected
+ADDED     file 000 modified to guide for creation of a new file in Downloads
