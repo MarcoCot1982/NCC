@@ -9,7 +9,7 @@ First release to agents in a separate file
 
 v1.1 [2022-10-24]
 ADDED shortcut ctrl+e for ENTER
-ADDED updated witn new clients
+ADDED updated with new clients
 ADDED got rid of support tab (relic of the version with all users together)
 
 v1.2 [2022-12 to be released]
