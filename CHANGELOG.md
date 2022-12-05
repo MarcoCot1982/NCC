@@ -10,7 +10,7 @@ ADDED shortcut ctrl+e for ENTER
 ADDED updated with new clients
 ADDED got rid of support tab (relic of the version with all users together)
 
-v1.2 [2022-12 to be released]
+v1.2 [2022-12 to be released - test on Aceves and Camino ongoing]
 IMPROVED    code with name of cells
 ADDED       msgbox instead of error text in cells
 ADDED       most used account automatically shows in prefilled form
